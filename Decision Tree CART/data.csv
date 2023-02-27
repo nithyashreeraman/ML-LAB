@@ -1,0 +1,15 @@
+Age,Job,House,Credit,Loan Approved
+Young,False,No,Fair,No
+Young,False,No,Good,No
+Young,True,No,Good,Yes
+Young,False,No,Fair,No
+Middle,False,No,Fair,No
+Middle,False,No,Good,No
+Middle,True,Yes,Good,Yes
+Middle,False,Yes,Excellent,Yes
+Middle,False,Yes,Excellent,Yes
+Old,False,Yes,Excellent,Yes
+Old,False,Yes,Good,Yes
+Old,True,No,Good,Yes
+Old,True,No,Excellent,Yes
+Old,False,No,Fair,No
